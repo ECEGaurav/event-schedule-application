@@ -40,7 +40,7 @@ npm run dev   # start backend with nodemon
 
 ### 3. Frontend Setup
 ```bash
-cd ../client
+cd client
 npm install
 npm start
 ```
